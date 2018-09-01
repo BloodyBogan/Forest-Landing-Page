@@ -10,7 +10,7 @@
    outline: 0;
    font-family: 'Quattrocento', serif;
    font-size: 100%;
-   overflow: hidden;
+   overflow-x: hidden;
 }
 
 body {
